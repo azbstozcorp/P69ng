@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\TextPong\TextPong\bin\Debug\TextPong.exe.config
+C:\Users\User\source\repos\TextPong\TextPong\bin\Debug\TextPong.exe
+C:\Users\User\source\repos\TextPong\TextPong\bin\Debug\TextPong.pdb
+C:\Users\User\source\repos\TextPong\TextPong\obj\Debug\TextPong.csprojAssemblyReference.cache
+C:\Users\User\source\repos\TextPong\TextPong\obj\Debug\TextPong.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TextPong\TextPong\obj\Debug\TextPong.exe
+C:\Users\User\source\repos\TextPong\TextPong\obj\Debug\TextPong.pdb
